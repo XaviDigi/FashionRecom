@@ -3,12 +3,7 @@
   <p>
     <i>Where technology meets style to create a truly unique shopping experience.</i>
   </p>
-  <p>
-    <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/yourusername/personalized-fashion-stylist?style=social">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/yourusername/personalized-fashion-stylist?style=social">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/yourusername/personalized-fashion-stylist">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/yourusername/personalized-fashion-stylist">
-  </p>
+
   <p>
     <img alt="React" src="https://img.shields.io/badge/React-16.13.1-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-2.0-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
