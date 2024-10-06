@@ -1,0 +1,39 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --beige: #f5f5dc;
+  --light-brown: #d2b48c;
+  --dark-brown: #8b4513;
+}
+
+body {
+  background-color: #fff8e7;
+}
+
+.bg-beige {
+  background-color: var(--beige);
+}
+
+.text-dark-brown {
+  color: var(--dark-brown);
+}
+
+.border-light-brown {
+  border-color: var(--light-brown);
+}
+
+.dark {
+  --beige: #2d2d2d;
+  --light-brown: #4a3728;
+  --dark-brown: #d2b48c;
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+.header-footer-bg {
+  background-image: url('https://i.ibb.co/jMHmkn5/Screenshot-2024-10-06-232216.png');
+  background-size: cover;
+  background-position: center;
+}
