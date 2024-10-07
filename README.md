@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛍️ Personalized Fashion Stylist</h1>
+  <h1>🛍️ Personalized Fashion Stylist (work in progress)</h1>
   <p>
     <i>Where technology meets style to create a truly unique shopping experience.</i>
   </p>
